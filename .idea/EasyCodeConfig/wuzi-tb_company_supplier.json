@@ -1,0 +1,38 @@
+{
+  "name" : "TbCompanySupplier",
+  "comment" : "企业供应商表",
+  "fullColumn" : [ {
+    "name" : "suId",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "companyId",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "suName",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "suEng",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.wuzi",
+  "savePath" : "./src/com/wuzi",
+  "saveModelName" : "generatorSqlmapCustom"
+}
